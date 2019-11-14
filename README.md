@@ -17,26 +17,26 @@ Dragging left click to create blocks Pink cell
 
 Moving Start Point by clicking the Red cell then click again to the other cell.
 
-alt text
+![alt text](Guide/movingRed1.PNG)
 
-alt text
+![alt text](Guide/movingRed2.PNG)
 
 Moving End Point by clicking the Orange cell and click again to the other cell.
 
-alt text
+![alt text](Guide/movingYellow1.PNG)
 
-alt text
+![alt text](Guide/movingYellow2.PNG)
 
-Press Searching to begin the process
+Press "Searching" to begin the process
 
 Blue cell mean the cell that algorithm have to pass to reach the end point.
 
 Magenta cell mean the trace from the end point back to the start point.
 
-alt text
+![alt text](Guide/resume1.PNG)
 
 Process return True if exits path else return False
 
-alt text
+![alt text](Guide/resume2.PNG)
 
-Press Restart to begin new process.
+Press "Restart" to begin new process.
